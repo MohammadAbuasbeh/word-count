@@ -2,6 +2,16 @@
 
 [![DOI](https://sandbox.zenodo.org/badge/368438275.svg)](https://sandbox.zenodo.org/badge/latestdoi/368438275)
 
+.. image:: https://sandbox.zenodo.org/badge/368438275.svg
+   :target: https://sandbox.zenodo.org/badge/latestdoi/368438275
+
+<a href="https://sandbox.zenodo.org/badge/latestdoi/368438275"><img src="https://sandbox.zenodo.org/badge/368438275.svg" alt="DOI"></a>
+
+
+https://sandbox.zenodo.org/badge/368438275.svg
+https://sandbox.zenodo.org/badge/latestdoi/368438275
+
+
 
 # Word count example
 
